@@ -1,4 +1,6 @@
-## Requirements
+# Exploring the Trade-Off within Visual Information for MultiModal Sentence Summarization (SIGIR 2024)
+
+- ## Requirements
 
 - python==3.9.18
 - torch==1.12.1+cu102
@@ -13,7 +15,7 @@
 
 ## Overview
 
-Please unzip dataset_mmss.zip and follow the following file structure.
+Please download image from the [official website]([GitHub - ZNLP/ZNLP-Dataset](https://github.com/ZNLP/ZNLP-Dataset)) and follow the following file structure.
 
 ```
 root
