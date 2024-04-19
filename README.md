@@ -1,16 +1,27 @@
 # Exploring the Trade-Off within Visual Information for MultiModal Sentence Summarization (SIGIR 2024)
 
-- ## Requirements
+## 
+
+## Requirements
 
 - python==3.9.18
+
 - torch==1.12.1+cu102
+
 - transformers==4.35.2
+
 - numpy==1.26.2
+
 - pillow==10.1.0
+
 - tokenizers==0.15.0
+
 - rouge==1.0.1
+
 - nltk==3.8.1
+
 - bert-score==0.3.13
+
 - krippendorff==0.6.1
 
 ## Overview
