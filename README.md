@@ -26,7 +26,7 @@
 
 ## Overview
 
-Please download image from the [official website]([GitHub - ZNLP/ZNLP-Dataset](https://github.com/ZNLP/ZNLP-Dataset)) and follow the following file structure.
+Please download image from [official website](https://github.com/ZNLP/ZNLP-Dataset) and follow the following file structure.
 
 ```
 root
